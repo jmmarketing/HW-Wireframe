@@ -2,12 +2,27 @@ body {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color: #777;
     background: #777;
-    width: 960px:
+    width: 960px;
     font-size: 18px;
 }
 
 header, nav, section, aside, footer{
     background: #ebebeb;
+    width: 495px;
+    text-align: center;
+}
+
+header{
+    padding: 10px 0;
+    margin-bottom: 5px;
+}
+
+nav{
+    padding: 10px 0;
+}
+
+footer{
+    padding: 10px 0;
 }
 
 article {
